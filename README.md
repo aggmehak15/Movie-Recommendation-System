@@ -42,21 +42,9 @@ Git & GitHub – Version control and project hosting
 
 # 🔍 Key Techniques & Methodology
 
-Data Cleaning & Preprocessing
-
-Handling missing values
-
 Tokenization and text preprocessing
 
 Feature transformation
-
-Exploratory Data Analysis (EDA)
-
-Distribution analysis
-
-Relationship analysis between variables
-
-Visual insights using plots
 
 Feature Engineering
 
@@ -80,8 +68,6 @@ Technical Skills
 Recommendation Systems
 
 Machine Learning Fundamentals
-
-Data Analysis & EDA
 
 Feature Engineering
 
